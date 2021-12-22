@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-22T13:03:07Z" name="Default suite" finished-at="2021-12-22T13:03:19Z" duration-ms="11446">
+    <groups>
+    </groups>
+    <test started-at="2021-12-22T13:03:07Z" name="Default test" finished-at="2021-12-22T13:03:19Z" duration-ms="11446">
+      <class name="spare.Spare11">
+        <test-method signature="tc33()[pri:0, instance:spare.Spare11@6cce16f4]" started-at="2021-12-22T13:03:07Z" name="tc33" finished-at="2021-12-22T13:03:19Z" duration-ms="11415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc33 -->
+      </class> <!-- spare.Spare11 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
